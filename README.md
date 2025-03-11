@@ -1,2 +1,2 @@
-# data_extractor
-Python Utility to fetch data from database and generate extract file
+# PyDataExtractor
+Python Utility to fetch data from databases and generate extract file
